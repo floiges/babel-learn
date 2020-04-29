@@ -1,0 +1,9 @@
+{
+  "name": "babel-learn",
+  "version": "1.0.0",
+  "description": "learn babel wowo",
+  "main": "index.js",
+  "repository": "https://github.com/floiges/babel-learn.git",
+  "author": "floiges",
+  "license": "MIT"
+}
